@@ -1,7 +1,7 @@
 /* Starnap Studio: in the pixel look of Orbital Genesis Protocol (Pixelify Sans titles, Silkscreen labels, Nunito text) */
-@font-face { font-family: Pixelify; src: url(pixelify-700.woff2?v=3) format('woff2'); font-weight: 700; font-display: swap; }
-@font-face { font-family: Pixelify; src: url(pixelify-400.woff2?v=3) format('woff2'); font-weight: 400; font-display: swap; }
-@font-face { font-family: Silkscreen; src: url(silkscreen.woff2?v=3) format('woff2'); font-weight: 400; font-display: swap; }
+@font-face { font-family: Pixelify; src: url(pixelify-700.woff2?v=4) format('woff2'); font-weight: 700; font-display: swap; }
+@font-face { font-family: Pixelify; src: url(pixelify-400.woff2?v=4) format('woff2'); font-weight: 400; font-display: swap; }
+@font-face { font-family: Silkscreen; src: url(silkscreen.woff2?v=4) format('woff2'); font-weight: 400; font-display: swap; }
 @font-face { font-family: Nunito; src: url(nunito.woff2) format('woff2'); font-weight: 200 1000; font-display: swap; }
 :root {
   --bg: #120c24; --bg2: #181236; --bg3: #1d1640; --card: #241b4d; --line: #5a46a0; --edge: #0b0818;
